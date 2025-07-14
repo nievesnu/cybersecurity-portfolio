@@ -2,10 +2,10 @@
 
 
 ### My Knowledge Check Result
+<img width="1605" height="647" alt="Captura de pantalla 2025-07-14 192625" src="https://github.com/user-attachments/assets/2d069a19-f041-430b-8327-9604ef56b15d" />
 
-![Knowledge Check Result](https://github.com/user-attachments/assets/d4020b8f-a44b-40fc-96aa-1ce05d126b0a)
-
-> Before completing the course, I answered the initial questions to check my current knowledge at the time. I use this to compare with the final exam and measure the skills I gained during the course.
+> Before completing the course, I answered the initial questions to check my current knowledge at the time.
+> I did this to be able to compare it with the final exam and measure the skills I gained during the course.
 
 ---
 
@@ -34,9 +34,6 @@ The link led to a **fake login page**. When users entered their credentials, att
 - **Websites:** Use cookies to track and sell user data trails.
 
 ---
-
-## Module 2: Attacks, Concepts and Techniques
-
 ### Types of Organizational Data
 
 - **Traditional:** Transactional data, intellectual property, financial data  
@@ -60,8 +57,7 @@ The link led to a **fake login page**. When users entered their credentials, att
 
 - **People:** Awareness, training, education  
 - **Technology:** Firewalls, antivirus, secure hardware  
-- **Policies and Procedures:** Rules and frameworks to govern access and response  
-
+- **Policies and Procedures:** Rules and frameworks to govern access and response
 ---
 
 ### Data Security Breaches – Examples
@@ -78,8 +74,6 @@ The link led to a **fake login page**. When users entered their credentials, att
 - **Damaged Intellectual Property:** Leaked trade secrets hurt competitiveness  
 
 ---
-
-##  Module 3: Protecting Your Data and Privacy
 
 **Practical Case 1**: 
 - Data: Massive data breach in an hotel chain the hackers couldn´t access account or financial info.
@@ -102,22 +96,51 @@ This might include:
 - granting employee access to personal data and internal systems only via a secure VPN connection.
 
 https://www.netacad.com/content/i2cs/7.1/courses/content/m1/en-US/assets/m1-lab-what-was-taken.pdf
--> https://github.com/nievesnu/Cisco/blob/main/breach-examples.md
+-> https://github.com/nievesnu/cybersecurity-portfolio/courses/Introduction to Cybersecurity/breach-examples.md
 ---
+## Types of Attackers
 
-## 🏢 Module 4: Protecting the Organization
+- Script kiddies: amateurs
+- White hat: breaks in prior permission to look for vulnerabilities to improve the security of a network or system
+- Grey hat: similar to white but biased can published vulnerabilities they found or report to the owner
+- Black hat: takes advantage of vulnerability for gain
+- Organized hackers (Anonymus): have cyber criminals, hacktivists(awareness about issues) terrorist and state sponsored hackers (pigs, commits sabotage on behalf of their government, well funded)
+
+**Internal Threats**: Employees => clumsy
+**External Threats**: Outsiders => have to gain access
+
+**Stuxnet malware** was designed not just to hijack targeted computers but to actually cause physical damage to equipment controlled by computers
+Non-Trivial distribution, Sophistication, Modular coding, Unique Target(patience), Motive.
+**The Purpose of Cyberwarfare** gain advantage over adversaries via compromised info via espionage = disruption & chaos.
+
+Module 1 Quiz Result: <img width="429" height="436" alt="image" src="https://github.com/user-attachments/assets/abfc759b-d123-4455-ac16-db16e93fe0c8" />
+
+
+## Module 2: Attacks, Concepts and Techniques
 
 *(Content summary pending)*
 
 ---
 
-## 🧭 Module 5: Will Your Future Be in Cybersecurity?
+##  Module 3: Protecting Your Data and Privacy
 
-*(Content summary pending)*
+*()*
 
 ---
 
-## 🎓 Final Exam: Course Completion
+## Module 4: Protecting the Organization
+
+*()*
+
+---
+
+## Module 5: Will Your Future Be in Cybersecurity?
+
+*()*
+
+---
+
+## Final Exam: Course Completion
 
 *()*
 
