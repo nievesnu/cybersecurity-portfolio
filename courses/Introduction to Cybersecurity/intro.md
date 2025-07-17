@@ -1,4 +1,4 @@
-# 🌐 Cisco – Introduction to Cybersecurity
+# Cisco: Introduction to Cybersecurity
 
 
 ### My Knowledge Check Result
