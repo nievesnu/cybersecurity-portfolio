@@ -6,5 +6,3 @@
 
 > Before completing the course, I answered the initial questions to check my current knowledge at the time.
 > I did this to be able to compare it with the final exam and measure the skills I gained during the course.
-
----
