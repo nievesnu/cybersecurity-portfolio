@@ -22,7 +22,7 @@ The link led to a **fake login page**. When users entered their credentials, att
 - **Search engines & social media:** Collect gender, location, phone number, ideologies, etc.
 - **Websites:** Use cookies to track and sell user data trails.
 
----
+
 ### Types of Organizational Data
 
 - **Traditional:** Transactional data, intellectual property, financial data  
@@ -47,7 +47,7 @@ The link led to a **fake login page**. When users entered their credentials, att
 - **People:** Awareness, training, education  
 - **Technology:** Firewalls, antivirus, secure hardware  
 - **Policies and Procedures:** Rules and frameworks to govern access and response
----
+
 
 ### Data Security Breaches – Examples
 
@@ -62,7 +62,7 @@ The link led to a **fake login page**. When users entered their credentials, att
 - **Loss of Revenue:** Direct financial impact and business disruption  
 - **Damaged Intellectual Property:** Leaked trade secrets hurt competitiveness  
 
----
+
 
 **Practical Case 1**: 
 - Data: Massive data breach in an hotel chain the hackers couldn´t access account or financial info.
@@ -86,7 +86,7 @@ This might include:
 
 https://www.netacad.com/content/i2cs/7.1/courses/content/m1/en-US/assets/m1-lab-what-was-taken.pdf
 -> https://github.com/nievesnu/cybersecurity-portfolio/courses/Introduction to Cybersecurity/breach-examples.md
----
+
 ## Types of Attackers
 
 - Script kiddies: amateurs
@@ -103,4 +103,4 @@ Non-Trivial distribution, Sophistication, Modular coding, Unique Target(patience
 **The Purpose of Cyberwarfare** gain advantage over adversaries via compromised info via espionage = disruption & chaos.
 
 Module 1 Quiz Result: <img width="902" height="635" alt="image" src="https://github.com/user-attachments/assets/6a555e94-0d77-4399-8700-50ffbf9dfdc8" />
----
+
