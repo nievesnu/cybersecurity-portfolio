@@ -4,14 +4,14 @@
 /Introduction to Cybersecurity/
 │
 ├── intro.md
-├── modulo1.md
-├── modulo2.md
-├── modulo3.md
-├── modulo4.md
-├── modulo5.md
+├── module1.md
+├── module2.md
+├── module3.md
+├── module4.md
+├── module5.md
 ├── exam.md
 ├── resumen.pdf
 ├── README.md
-└── recursos/
+└── resources/
      └── imagenes, scripts, infografia extra, etc.
 ```
