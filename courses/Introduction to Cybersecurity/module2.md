@@ -1,4 +1,3 @@
-
 ## Module 2: Attacks, Concepts and Techniques
 
 ## Types of Malware
@@ -63,7 +62,7 @@
 
 ---
 
-## 📊 Module 2 Quiz Result
+## Module 2 Quiz Result
 
 ![Module 2 Quiz Result](https://github.com/user-attachments/assets/6769f98a-7808-4fd7-a0c0-92c2eedf76ef)
 
