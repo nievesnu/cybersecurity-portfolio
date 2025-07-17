@@ -39,5 +39,3 @@ Password manager applications can protect passwords by saving them in a secure e
 
 ---
 Quiz Module 3 Result: <img width="1022" height="644" alt="image" src="https://github.com/user-attachments/assets/afbd4e1e-c186-46f6-9bfe-02a9af7ba3ab" />
-
----
