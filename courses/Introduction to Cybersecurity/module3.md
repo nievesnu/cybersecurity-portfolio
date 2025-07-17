@@ -3,6 +3,7 @@
 
 Protect computer device: Turn the firewall on - Install antivirus and antispyware - Manage your operating system and browser - Set up password protection
 Wireless Network Security at home with WPA2 encryption.
+
 **Password**
 1. Do not use dictionary words or names in any lenguages
 2. Do not use common misspelling of dictionary words
@@ -12,10 +13,10 @@ Wireless Network Security at home with WPA2 encryption.
 *NIST guidelines are stronger
 
 ---
-**Encryption:** converting information into a form in which unauthorized parties cannot read it
+- **Encryption:** converting information into a form in which unauthorized parties cannot read it
 How? -> choose a folder > properties > advanced > Encrypt contents to secure data = EFS encription
-**BackupData:** at home, secondary location and in the cloud.
-**Delete Data Permanently:** It must be overwritten, to do so we have to use specific tools. Windows: SDelete, Linus Shred, MacOS X empty trash.
+- **BackupData:** at home, secondary location and in the cloud.
+- **Delete Data Permanently:** It must be overwritten, to do so we have to use specific tools. Windows: SDelete, Linus Shred, MacOS X empty trash.
 The only way to be certain that data or files are not recoverable is to physically destroy the hard drive or storage device.
 
 ---
@@ -28,10 +29,10 @@ change your passwords periodically, use a complex password and two factor authen
 
 ---
 **Two Factor Authentication** adds an extra layer of security for account logins.
-OAuth is an open standard protocol that allows you to use your credentials to access third-party applications without exposing your password.
-Social sharing rule: the less the best
-Dont get Spoofed
-Private browsing = less data of yourself trhough the internet bcs disabled cookies & traces of your roundabouts.
+- OAuth is an open standard protocol that allows you to use your credentials to access third-party applications without exposing your password.
+- Social sharing rule: the less the best
+- Dont get Spoofed
+- Private browsing = less data of yourself trhough the internet bcs disabled cookies & traces of your roundabouts.
 
 ---
 Password manager applications can protect passwords by saving them in a secure encrypted form. They enable random passwords to be generated and managed easily, averting the need for users to have the same password for multiple accounts, which presents a security risk.
