@@ -3,11 +3,14 @@ Repositorio para documentar aprendizaje práctico en ciberseguridad, cursos, her
 
 ## Foldedrs
 
+```
 📂 cybersecurity-portfolio/
 ├── README.md
 ├── cursos/
 │   └── Introduction to Cybersecurity
-│       └── cisco.md
+│   │   └── cisco.md
+│   └── Microsoft Learn SC-900
+│   │   └── parte1.md
 ├── logs-analysis/
 │   └── análisis_apache.md
 ├── tryhackme-reports/
