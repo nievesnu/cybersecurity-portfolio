@@ -11,19 +11,10 @@ Installation
 sudo apt update
 sudo apt install dirb
 ```
-<details>
-<summary>🚩 Click to reveal the flag</summary>
-
-```text
-BANK-HACKED
-```
-</details>
 
 General Structure: dirb <URL> <WORDLIST>
 
 <details>
 <summary>🚩 Flag</summary>
-
-**Flag:** `BANK-HACKED`
-
+`BANK-HACKED`
 </details>
