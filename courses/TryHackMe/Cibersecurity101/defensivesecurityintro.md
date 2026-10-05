@@ -10,6 +10,6 @@ Level: chill (easy).
 
 ```text
 THM{FAKEBANK-SECURED}
-
-</details>
 ```
+</details>
+
