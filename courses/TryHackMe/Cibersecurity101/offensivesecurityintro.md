@@ -6,12 +6,18 @@ https://tryhackme.com/room/offensivesecurityintrokKx12?utm_campaign=social_share
 ## Finds
 DIRB — Web Scanning: **dirb** is a tool used for web content scanning and directory enumeration.
 
-### Installation
+Installation
 
 ```bash
 sudo apt update
 sudo apt install dirb
 ```
 
-### General Structure 
-dirb <URL> <WORDLIST>
+General Structure: dirb <URL> <WORDLIST>
+
+<details>
+<summary>🚩 Flag</summary>
+
+**Flag:** `BANK-HACKED`
+
+</details>
