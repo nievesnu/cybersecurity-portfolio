@@ -14,51 +14,19 @@ This room covers:
 
 ---
 
-## 1. Why Cryptography Matters  
-Cryptography protects confidentiality, integrity, and authenticity of data.
+Why Cryptography Matters: Cryptography protects confidentiality, integrity, and authenticity of data.
 
-Used in:
-- HTTPS  
-- SSH  
-- VPNs  
-- Password hashing  
-- Secure messaging  
-- Digital signatures  
-
-In CTFs, crypto challenges often test:
-- Weak encryption  
-- Misconfigurations  
-- Poor randomness  
-- Small key sizes  
-- Incorrect RSA usage  
+Used in: HTTPS, SSH, VPNs, password hashing, secure messaging, sigital signatures,
+In CTFs, crypto challenges often test: weak encryption, misconfigurations, poor randomness, small key sizes, incorrect RSA usage  
 
 ---
 
-## 2. Symmetric vs Asymmetric Encryption  
+Symmetric vs Asymmetric Encryption  
 
-### Symmetric Encryption  
-One key for encrypting and decrypting.  
-Fast and used for bulk data.
+Symmetric Encryption: one key for encrypting and decrypting. Fast and used for bulk data.
+Asymmetric Encryption: uses public key + private key. Slower but enables secure communication without sharing a secret key.
 
-Examples:
-- AES  
-- DES (deprecated)  
-- ChaCha20  
-
-### Asymmetric Encryption  
-Uses public key + private key.  
-Slower but enables secure communication without sharing a secret key.
-
-Examples:
-- RSA  
-- ECC  
-- ElGamal  
-
----
-
-## 3. RSA Fundamentals  
-RSA is based on the difficulty of factoring large prime numbers.
-
+RSA Fundamentals: is based on the difficulty of factoring large prime numbers.
 Key concepts:
 - Public key → encrypt / verify  
 - Private key → decrypt / sign  
@@ -77,18 +45,12 @@ Tools often used:
 
 ---
 
-## 4. Key Exchange Methods  
-
-### Diffie–Hellman (DH)  
-Allows two parties to derive a shared secret over an insecure channel.
-
-### RSA Key Exchange  
-Encrypts a symmetric key using the recipient’s public RSA key.  
-Used in older TLS versions.
+Key Exchange Methods  
+- Diffie–Hellman (DH): allows two parties to derive a shared secret over an insecure channel.
+- RSA Key Exchange: encrypts a symmetric key using the recipient’s public RSA key.  Used in older TLS versions.
 
 ---
 
-## 5. Quantum Computing & The Future  
 Quantum computers threaten RSA and ECC due to Shor’s algorithm.
 
 Expected changes:
@@ -97,6 +59,32 @@ Expected changes:
 - Hybrid encryption (classical + PQC)  
 
 ---
+<details>
+<summary><strong>Task 1–7 — Questions & Answers</strong></summary>
+
+Task 1 — Introduction  
+Q1) I’m ready to start learning about cryptography!: No answer needed  
+
+Task 2 — Importance of Cryptography  
+Q2) What is the standard required for handling credit card information?: PCI DSS  
+
+Task 3 — Plaintext to Ciphertext  
+Q3) What do you call the encrypted plaintext?: ciphertext  
+Q4) What do you call the process that returns the plaintext?: decryption  
+
+Task 4 — Historical Ciphers  
+Q5) Knowing that *XRPCTCRGNEI* was encrypted using Caesar Cipher, what is the original plaintext?: ICANENCRYPT  
+
+Task 5 — Types of Encryption  
+Q6) Should you trust DES?: Nay  
+Q7) When was AES adopted as an encryption standard?: 2001  
+
+Task 6 — Basic Math  
+Q8) What’s `1001 ⊕ 1010`?: 0011  
+Q9) What’s `118613842 % 9091`?: 3565  
+Q10) What’s `60 % 12`?: 0  
+
+</details>
 
 ## Practical Notes  
 Tools used in this room:
