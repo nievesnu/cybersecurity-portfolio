@@ -1,5 +1,4 @@
 # Paquetes de Ciberseguridad / Criptografía
----
 
 ## Herramientas de Pentesting / CTF
 
@@ -106,4 +105,5 @@
 
 ---
 
-Aqui está el script donde instalar todas las herramientas: tools/ciberseguridad.sh
+Aqui está el script donde instalar todas las herramientas: tools/ciberseguridad.sh el proceso es simple, descargar el archivo y ejecutar el archivo con ./ciberseguridad.sh
+
