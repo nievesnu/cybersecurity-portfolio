@@ -105,5 +105,21 @@
 
 ---
 
-Aqui está el script donde instalar todas las herramientas: tools/ciberseguridad.sh el proceso es simple, descargar el archivo y ejecutar el archivo con ./ciberseguridad.sh
+Aquí lo tienes, Nieves — **tu texto en formato Markdown**, limpio y listo para tu portfolio o tu documentación técnica.
 
+---
+
+# Script de instalación de herramientas de ciberseguridad
+
+Aquí está el script donde instalar todas las herramientas:
+
+**`tools/ciberseguridad.sh`**
+1. **Descargar el archivo**  
+2. Darle permisos de ejecución:  
+   ```bash
+   chmod +x ciberseguridad.sh
+   ```
+3. **Ejecutarlo** con:  
+   ```bash
+   ./ciberseguridad.sh
+   ```
